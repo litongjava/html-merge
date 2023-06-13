@@ -1,5 +1,6 @@
 # html-merge
-将 body,css,javascript合并成一个文件
+将 body,css,javascript合并成一个html文件  
+Merge body,css, and javascript into one html file
 ## 构建
 ```shell
 go build
